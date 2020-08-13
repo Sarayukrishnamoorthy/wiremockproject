@@ -1,0 +1,130 @@
+{
+  "Car": [
+    {
+      "make": "Audi",
+      "model": "A7",
+      "vin": "09AGHY64352JITEG98K",
+      "metadata": {
+        "Color": "Black",
+        "Notes": "Scratches on the front side of the car"
+      },
+      "perdayrent": {
+        "Price": 140,
+        "Discount": 15
+      },
+      "metrics": {
+        "yoymaintenancecost": 2190.76,
+        "depreciation": 2256.43,
+        "rentalcount": {
+          "lastweek": 3,
+          "yeartodate": 221
+        }
+      }
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "vin": "09AGHY64642JITEG98H",
+      "metadata": {
+        "Color": "White",
+        "Notes": "broken mirror"
+      },
+      "perdayrent": {
+        "Price": 120,
+        "Discount": 10
+      },
+      "metrics": {
+        "yoymaintenancecost": 4190.06,
+        "depreciation": 1256.44,
+        "rentalcount": {
+          "lastweek": 7,
+          "yeartodate": 225
+        }
+      }
+    },
+    {
+      "make": "Tesla",
+      "model": "S",
+      "vin": "09AGHY64352KITEG98K",
+      "metadata": {
+        "Color": "Blue",
+        "Notes": "Scratches on back of the car"
+      },
+      "perdayrent": {
+        "Price": 200,
+        "Discount": 5
+      },
+      "metrics": {
+        "yoymaintenancecost": 2790.45,
+        "depreciation": 3456.3,
+        "rentalcount": {
+          "lastweek": 6,
+          "yeartodate": 228
+        }
+      }
+    },
+    {
+      "make": "Tesla",
+      "model": "3",
+      "vin": "09AGHY64356JITEG98K",
+      "metadata": {
+        "Color": "Blue",
+        "Notes": "2 Scratches in front, 3 scratches in back "
+      },
+      "perdayrent": {
+        "Price": 200,
+        "Discount": 10
+      },
+      "metrics": {
+        "yoymaintenancecost": 2190.2,
+        "depreciation": 2256.43,
+        "rentalcount": {
+          "lastweek": 4,
+          "yeartodate": 223
+        }
+      }
+    },
+    {
+      "make": "Tesla",
+      "model": "3",
+      "vin": "09AGHY64356JITEG98K",
+      "metadata": {
+        "Color": "Black",
+        "Notes": "Scratches on front of the car"
+      },
+      "perdayrent": {
+        "Price": 200,
+        "Discount": 10
+      },
+      "metrics": {
+        "yoymaintenancecost": 4290.43,
+        "depreciation": 2756.3,
+        "rentalcount": {
+          "lastweek": 6,
+          "yeartodate": 225
+        }
+      }
+    },
+    {
+      "make": "Ford",
+      "model": "Escape",
+      "vin": "09AGHY643345ITEG98K",
+      "metadata": {
+        "Color": "Grey",
+        "Notes": "10 Scratches"
+      },
+      "perdayrent": {
+        "Price": 160,
+        "Discount": 20
+      },
+      "metrics": {
+        "yoymaintenancecost": 1190.67,
+        "depreciation": 2056.03,
+        "rentalcount": {
+          "lastweek": 2,
+          "yeartodate": 230
+        }
+      }
+    }
+  ]
+}
