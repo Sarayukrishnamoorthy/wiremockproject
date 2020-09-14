@@ -1,0 +1,58 @@
+{
+  "username": "aa@m.com",
+  "password": "12xyz",
+  "sessionid": [
+    12,
+    23,
+    34,
+    56
+  ],
+  "students": [
+    {
+      "id": 112,
+      "name": "aana",
+      "marks": [
+        20,
+        25,
+        22
+      ],
+      "contact": [
+        "1234",
+        "3456"
+      ],
+      "adresss": [
+        {
+          "state": "nc",
+          "city": "abc"
+        },
+        {
+          "state": "ca",
+          "city": "xyz"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "name": "banu",
+      "marks": [
+        20,
+        25,
+        22
+      ],
+      "contact": [
+        "4534",
+        "3456"
+      ],
+      "adresss": [
+        {
+          "state": "nc",
+          "city": "abc"
+        },
+        {
+          "state": "ca",
+          "city": "xyz"
+        }
+      ]
+    }
+  ]
+}

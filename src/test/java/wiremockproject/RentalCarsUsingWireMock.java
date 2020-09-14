@@ -13,12 +13,15 @@ import com.github.tomakehurst.wiremock.client.WireMock;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
-public class GetUsingWireMock {
+public class RentalCarsUsingWireMock {
 
 	private static final int iPort = 8080;
 	private static final String sHost = "localhost";
 	private static WireMockServer server = new WireMockServer(iPort);
 	public static void main(String[] args)  {
+		
+	}
+	public static void main1(String[] args)  {
 	
 		try {
 		startServer();

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1784" started-at="2020-08-25T01:04:18Z" finished-at="2020-08-25T01:04:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1784" started-at="2020-08-25T01:04:18Z" finished-at="2020-08-25T01:04:19Z">
+      <class name="wiremockproject.ParsingUsersList">
+        <test-method status="PASS" signature="sendRequest()[pri:0, instance:wiremockproject.ParsingUsersList@add0edd]" name="sendRequest" is-config="true" duration-ms="1496" started-at="2020-08-25T01:04:18Z" finished-at="2020-08-25T01:04:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendRequest -->
+        <test-method status="PASS" signature="parseResponse()[pri:0, instance:wiremockproject.ParsingUsersList@add0edd]" name="parseResponse" duration-ms="251" started-at="2020-08-25T01:04:19Z" finished-at="2020-08-25T01:04:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parseResponse -->
+      </class> <!-- wiremockproject.ParsingUsersList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
